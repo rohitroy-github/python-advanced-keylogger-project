@@ -36,3 +36,6 @@
 7 > a copy of the encrypted files will be added to the "Saved Logs" folder in order to decrypt them, we have to run the DecryptFiles.py 
 
 8 > a decrypted version of all the encrypted files will be saved in the same folder "Saved Logs" 
+
+
+Reference video file is https://youtu.be/25um032xgrw
